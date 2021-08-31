@@ -1,5 +1,14 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megghy&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+> ##### ~~20岁, 是学生(~~
 
+🤔 Language: C#
+
+⚡ QQ: 1061179310
+
+⚡ Discord: Megghy#7985
+
+
+*自学编程中*
 <!--
 **Megghy/Megghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
