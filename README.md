@@ -3,7 +3,7 @@
 
 🤔 Language: C#
 
-⚡ QQ: 1061179310
+⚡ QQ: [1061179310](http://tool.gljlw.com/qq/?qq=1061179310)
 
 ⚡ Discord: Megghy#7985
 
