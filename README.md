@@ -1,4 +1,10 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Megghy&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Megghy&theme=highcontrast&show_icons=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megghy&layout=compact" />
+</a>
+
 > ##### ~~20岁, 是学生(~~
 
 🤔 Language: C#
