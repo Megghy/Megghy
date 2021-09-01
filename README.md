@@ -3,14 +3,15 @@
 
 > ##### ~~20岁, 是学生(~~
 
-🤔 Language: C#
+🤔 语言: CSharp
 
 ⚡ QQ: [1061179310](http://tool.gljlw.com/qq/?qq=1061179310) / MegghyOvO
 
 ⚡ Discord: Megghy#7985
 
+💬 插件遇到什么问题都可以找我聊聊捏
 
-*自学编程中*
+🌱 *自学编程中*
 <!--
 **Megghy/Megghy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
