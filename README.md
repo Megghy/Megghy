@@ -1,5 +1,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Megghy&theme=highcontrast&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megghy&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megghy&layout=compact&theme=highcontrast" />
 
 > ##### ~~20岁, 是学生(~~
 
