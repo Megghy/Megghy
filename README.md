@@ -7,7 +7,7 @@
 
 ⚡ QQ: [1061179310](http://tool.gljlw.com/qq/?qq=1061179310) / MegghyOvO
 
-⚡ Discord: Megghy#7985
+⚡ Discord: Megghy#7985 (基本不会看
 
 ⚡ E-Mail: Megghy@qq.com or megghyovo@gmail.com
 
