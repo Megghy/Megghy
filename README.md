@@ -7,9 +7,9 @@
 
 ⚡ QQ: [1061179310](http://tool.gljlw.com/qq/?qq=1061179310) / MegghyOvO
 
-⚡ Discord: [Megghy#7985](http://discordapp.com/users/676996792075681792) (基本不会看 OR [Telegram](https://t.me/yhggem)
+⚡ Discord: [Megghy#7985](http://discordapp.com/users/676996792075681792) (基本不会看 / [Telegram](https://t.me/yhggem)
 
-⚡ E-Mail: megghy@qq.com OR megghyovo@gmail.com
+⚡ E-Mail: megghy@qq.com / megghyovo@gmail.com
 
 💬 如果真有人用我写的东西 而且遇到什么问题可以找我聊聊捏
 
