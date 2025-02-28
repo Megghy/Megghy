@@ -1,9 +1,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Megghy&theme=highcontrast&show_icons=true&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megghy&layout=compact&theme=highcontrast" />
 
-> ##### ~~22岁, 是学生(~~
+> ##### ~~24岁, 是学生(~~
 
-🤔 语言: CSharp
+🤔 语言: CSharp / JavaScript
 
 ⚡ QQ: [1061179310](http://tool.gljlw.com/qq/?qq=1061179310) / MegghyOvO
 
